@@ -1,0 +1,12 @@
+.Home{
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+}
+
+.products-games{
+    display:flex;
+    /* border:2px solid red; */
+    justify-content: space-around;
+    height: 400px;
+}
